@@ -769,3 +769,13 @@
 // }
 
 // console.log(year + " - yil: " + colorName + " " + animalName + " yili.");
+
+// if else
+// if1. Butun son berilgan. Agar, berilgan son musbat bo`lsa, 1 ga oshirilsin, aks holda o`zgartirilmasin. Hosil bo`lgan sonni ekranga chiqaruvchi programma tuzilsin.
+// let son = 10;
+// if (0 < son) {
+//   son++;
+//   console.log(son);
+// } else {
+//   console.log(son);
+// }
